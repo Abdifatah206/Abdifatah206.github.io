@@ -1,5 +1,5 @@
 # CyberSecurity Portfolio
-##Eduction
+## Eduction
 - BS Computer Science
 - Microsoft Azure 900
 - CompTIA Security+
