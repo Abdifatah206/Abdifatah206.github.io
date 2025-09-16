@@ -8,10 +8,10 @@
 
 ## EDUCATION
 
-Bachelor of Applied Science, North Seattle College                                 09/2018 - 07/2020 
-Azure 900 Fundamentals                Certified              	 					                     02/2022
-Google Cybersecurity Certificate   Certified									                               04/2024 
-CompTIA Security +  	          Certified								                                     01/2025
+- Bachelor of Applied Science, North Seattle College                                 09/2018 - 07/2020 
+- Azure 900 Fundamentals               Certified              	 					                          02/2022
+- Google Cybersecurity Certificate     Certified									                                      04/2024 
+- CompTIA Security +  	                Certified								                                       01/2025
 
 ## EXPERIENCE 
 
