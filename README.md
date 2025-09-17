@@ -1,17 +1,21 @@
 # CyberSecurity Portfolio
 ## SKILLS
-- Operating Systems: Windows 10/11, Windows Server 2016–2022, macOS, Linux
-- Networking: DNS, DHCP, SSL, OSI Model, TCP/IP
-- Tools & Platforms: SCCM, Active Directory, DFS, Jira, Confluence, Zoom, Teams, Slack
-- Hardware: Laptops, desktops, printers, video conferencing tools
-- Other: Ticketing systems (ServiceNow, Zendesk), Documentation (Confluence, SharePoint)
+- Networking basics → TCP/IP, DNS, HTTP/HTTPS, VPN, firewalls
+- Operating systems → Windows, Linux, macOS commands & security
+- Cyber hygiene → passwords, MFA, phishing awareness
+- Security tools → Wireshark, Nmap, Splunk, SIEM basics
+- Scripting → Python, Bash, PowerShell (for automation)
+- Vulnerability basics → CVEs, patching, common exploits
+- Incident response → logs, alerts, triage steps
+- Cloud fundamentals → AWS/Azure security basics
+- Compliance awareness → GDPR, HIPAA, ISO, NIST
 
 ## EDUCATION
 
-- Bachelor of Applied Science, North Seattle College                                 09/2018 - 07/2020 
-- Azure 900 Fundamentals               Certified              	 					                          02/2022
-- Google Cybersecurity Certificate     Certified									                                      04/2024 
-- CompTIA Security +  	                Certified								                                       01/2025
+- Bachelor of Applied Science,      |   North Seattle College                                (_09/2018 - 07/2020_)
+- Azure 900 Fundamentals            |  Certified              	 					                          (_02/2022_)
+- Google Cybersecurity Certificate  |  Certified									                                      (_04/2024_) 
+- CompTIA Security +  	             |  Certified								                                       (_01/2025_)
 
 ## EXPERIENCE 
 
