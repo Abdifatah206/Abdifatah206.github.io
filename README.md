@@ -12,10 +12,13 @@
 
 ## EDUCATION
 
-- Bachelor of Applied Science, | North Seattle College | (_07/2020_)
-- Azure 900 Fundamentals            |  Certified         |(_02/2022_)
-- Google Cybersecurity Certificate  |  Certified									| (_04/2024_) 
-- CompTIA Security +  	             |  Certified							  |(_01/2025_)
+- BA of Applied Science, | North Seattle College | (_07/2020_)
+- Azure 900 Fundamentals |  Certified         |(_02/2022_)
+- Google Cybersecurity   |  Certified									| (_04/2024_) 
+- CompTIA Security +  	  |  Certified							  |(_01/2025_)
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 ## EXPERIENCE 
 
