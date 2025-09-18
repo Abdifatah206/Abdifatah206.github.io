@@ -1,14 +1,7 @@
 # CyberSecurity  Engineer
 ## SKILLS
-- Networking basics → TCP/IP, DNS, HTTP/HTTPS, VPN, firewalls
-- Operating systems → Windows, Linux, macOS commands & security
-- Cyber hygiene → passwords, MFA, phishing awareness
-- Security tools → Wireshark, Nmap, Splunk, SIEM basics
-- Scripting → Python, Bash, PowerShell (for automation)
-- Vulnerability basics → CVEs, patching, common exploits
-- Incident response → logs, alerts, triage steps
-- Cloud fundamentals → AWS/Azure security basics
-- Compliance awareness → GDPR, HIPAA, ISO, NIST
+- Networking, Linux/Windows OS, scripting (Python/Bash), risk assessment, SIEM tools.
+- incident response,vulnerability scanning, security policies, access control, cloud security basics.
 
 ## EDUCATION
 
