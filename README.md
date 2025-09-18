@@ -16,10 +16,10 @@
 ## EXPERIENCE 
 
 ##### Associate  Data Engineer         Infosys		       Bellevue, WA           October 2021 – Feb 2025 
-- Extracted large data records from SQL server, spreadsheets, transformed and populated to data warehouse on daily basis. 
-- Designed and optimized data pipelines to enhance data processing efficiency, scalability, and overall system performance.
-- Implemented data quality checks and validation rules to ensure data accuracy and consistency .
-- Optimized project dashboard in Power BI  enabling clear and actionable insights for stakeholders.
+- Extracted, transformed, and loaded large datasets from SQL Server and spreadsheets into a data warehouse.
+- designed and optimized pipelines with data quality checks to ensure accuracy and scalability.
+
+
 
 ##### Software Quality Assurance   BTI Solutions  Inc         Bellevue, WA        May 2020 – June 2021                                                                                                                            
 - Tested Samsung's new product before its release, using Samsung proprietary softwares. Performing both manual and automatic testing.
