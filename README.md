@@ -1,16 +1,16 @@
 # CyberSecurity  Engineer
-## SKILLS
+### SKILLS
 - Networking, Linux/Windows OS, scripting (Python/Bash).
 - risk assessment, SIEM tools.
 - incident response,vulnerability scanning, security policies.
 - access control, cloud security basics.
 
-## EDUCATION
+### EDUCATION
 - Bachelor of Applied Science.,| North Seattle College(_07/2020_) 
 - Azure 900 Fundamentals., |Certified(_02/2022_)
 - CompTIA Security +.,| Certified(_01/2025_)			        		
 
-## EXPERIENCE 
+### EXPERIENCE 
 ##### Associate  Data Engineer         Infosys		       Bellevue, WA           October 2021 – Feb 2025 
 - Extracted, transformed, and loaded large datasets from SQL Server and spreadsheets into a data warehouse.
 - designed and optimized pipelines with data quality checks to ensure accuracy and scalability.
