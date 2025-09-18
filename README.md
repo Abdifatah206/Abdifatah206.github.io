@@ -6,9 +6,9 @@
 - access control, cloud security basics.
 
 ### EDUCATION
-- Bachelor of Applied Science.,| North Seattle College(_07/2020_) 
-- Azure 900 Fundamentals., |Certified(_02/2022_)
-- CompTIA Security +.,| Certified(_01/2025_)			        		
+- Bachelor of Applied Science|North Seattle College(_07/2020_) 
+- Azure 900 Fundamentals     |Certified(_02/2022_)
+- CompTIA Security +         |Certified(_01/2025_)			        		
 
 ### EXPERIENCE 
 ##### Associate  Data Engineer         Infosys		       Bellevue, WA           October 2021 – Feb 2025 
