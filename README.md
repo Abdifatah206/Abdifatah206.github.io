@@ -1,4 +1,4 @@
-# CyberSecurity Portfolio
+# CyberSecurity  Engineer
 ## SKILLS
 - Networking basics → TCP/IP, DNS, HTTP/HTTPS, VPN, firewalls
 - Operating systems → Windows, Linux, macOS commands & security
