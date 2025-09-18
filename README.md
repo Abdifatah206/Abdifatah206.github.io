@@ -6,10 +6,9 @@
 - access control, cloud security basics.
 
 ## EDUCATION
-- BA., Applied Scinece | The North Seattle College (_July 2020_)
-- Certified., GAzure 900 Cloud| The Microsoft (_Feb 2022_)
-- Certified., Google Cybersecurity | The Coursera (_April 2024_)           		
-- Certified., ComPTIA Security+	| The CompTIA (_Feb 2025_)	 			        		
+- Bachelor of Applied Science.,| North Seattle College(_07/2020_) 
+- Azure 900 Fundamentals., |Certified(_02/2022_)
+- CompTIA Security +.,| Certified(_01/2025_)			        		
 
 ## EXPERIENCE 
 ##### Associate  Data Engineer         Infosys		       Bellevue, WA           October 2021 – Feb 2025 
