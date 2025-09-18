@@ -19,14 +19,10 @@
 - Extracted, transformed, and loaded large datasets from SQL Server and spreadsheets into a data warehouse.
 - designed and optimized pipelines with data quality checks to ensure accuracy and scalability.
 
-
-
 ##### Software Quality Assurance   BTI Solutions  Inc         Bellevue, WA        May 2020 – June 2021                                                                                                                            
-- Tested Samsung's new product before its release, using Samsung proprietary softwares. Performing both manual and automatic testing.
-- Prepared Test Cases according to the Business Requirements for both Positive and Negative Scenarios and executed it.
-- analyzed the range, capacity, speed and signal of different network technologies like 5G, 4G and 3G as Samsung requirement
-- Captured , monitored and analyzed network packets using wireshark and QXDM. able to read the packet and find errors. 
-- prepared and consolidated different data sets, finalized and submitted formal reports to samsung HQ.
+- Tested Samsung products pre-release using proprietary tools, performing manual/automated testing,
+- test case design, and network analysis (5G/4G/3G).
+- Captured and analyzed network packets with Wireshark/QXDM, consolidated data, and delivered formal reports to Samsung HQ.
 
 ##### Data Analyst 	     Barrett Business Services, Inc	       Kent, WA			        June 2018 – April 2020
 - Prepared, cleaned  and organized  hundreds of employee records and ready for more insightful analysis.
