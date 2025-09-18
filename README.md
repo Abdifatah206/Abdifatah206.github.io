@@ -11,21 +11,15 @@
 - Certified., Google Cybersecurity | The Coursera (_April 2024_)           		
 - Certified., ComPTIA Security+	| The CompTIA (_Feb 2025_)	 			        		
 
-
-
 ## EXPERIENCE 
-
 ##### Associate  Data Engineer         Infosys		       Bellevue, WA           October 2021 – Feb 2025 
 - Extracted, transformed, and loaded large datasets from SQL Server and spreadsheets into a data warehouse.
 - designed and optimized pipelines with data quality checks to ensure accuracy and scalability.
+  
+##### Software Quality Assurance   BTI Solutions  Inc         Bellevue, WA        May 2020 – June 2021 
 
-##### Software Quality Assurance   BTI Solutions  Inc         Bellevue, WA        May 2020 – June 2021                                                                                                                            
 - Tested Samsung products pre-release using proprietary tools, performing manual/automated testing,
 - test case design, and network analysis (5G/4G/3G).
 - Captured and analyzed network packets with Wireshark/QXDM, consolidated data, and delivered formal reports to Samsung HQ.
 
-##### Data Analyst 	     Barrett Business Services, Inc	       Kent, WA			        June 2018 – April 2020
-- Prepared, cleaned  and organized  hundreds of employee records and ready for more insightful analysis.
-- Utilized SQL and Excel to interpret and manipulate large data sets, enabling streamlined data retrieval and enhanced reporting accuracy.
- Provided actionable insights to cross-functional teams, enhancing decision-making processes.
 
