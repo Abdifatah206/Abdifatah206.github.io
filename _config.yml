@@ -1,5 +1,7 @@
 title: Abdifatah Mohamed
 logo: /assets/img/headcircle.JPG
+sass:
+  style: compressed
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
