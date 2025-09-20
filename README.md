@@ -7,7 +7,7 @@
 
 ### EDUCATION
 - BA of Applied Science   | North seattle College  (_07/2020_)
-- Azure  Fundementals| [Certified](https://tinyurl.com/2s4m45dp)  |           (_02/2022_)
+- Azure Fundementals| [Certified](https://tinyurl.com/2s4m45dp)  |           (_02/2022_)
 - CompTIA Security+       | [Certified](https://tinyurl.com/49dswaku) |          (_01/2025_) 		        		
 
 ### EXPERIENCE 
