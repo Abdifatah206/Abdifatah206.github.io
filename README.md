@@ -7,8 +7,8 @@
 
 ### EDUCATION
 - BA of Applied Science   | North seattle College  (_07/2020_)
-- Azure 900 Fundementals| [Certified](https://tinyurl.com/2s4m45dp)             (_02/2022_)
-- CompTIA Security+       | [Certified](https://www.credly.com/badges/c409ad7e-a1e4-456b-8378-b2e7f819b454/linked_in_profile)             (_01/2025_) 		        		
+- Azure 900 Fundementals| [Certified](https://tinyurl.com/2s4m45dp)  |           (_02/2022_)
+- CompTIA Security+       | [Certified](https://tinyurl.com/49dswaku) |          (_01/2025_) 		        		
 
 ### EXPERIENCE 
 ##### Associate  Data Engineer         Infosys		       Bellevue, WA           October 2021 – Feb 2025 
