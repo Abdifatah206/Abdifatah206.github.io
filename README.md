@@ -21,4 +21,4 @@
 - test case design, and network analysis (5G/4G/3G).
 - Captured and analyzed network packets with Wireshark/QXDM, consolidated data, and delivered formal reports to Samsung HQ.
 
-### Projects
+### PROJECTS
