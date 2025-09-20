@@ -6,9 +6,9 @@
 - access control, cloud security basics.
 
 ### EDUCATION
-- Bachelor of Applied Science|North Seattle College(_07/2020_) 
+- Bachelor of Applied Science    |North Seattle College(_07/2020_) 
 - Azure 900 Fundamentals     |Certified(_02/2022_)
-- CompTIA Security +         |Certified(_01/2025_)			        		
+- CompTIA Security +            |Certified(_01/2025_)			        		
 
 ### EXPERIENCE 
 ##### Associate  Data Engineer         Infosys		       Bellevue, WA           October 2021 – Feb 2025 
@@ -21,4 +21,4 @@
 - test case design, and network analysis (5G/4G/3G).
 - Captured and analyzed network packets with Wireshark/QXDM, consolidated data, and delivered formal reports to Samsung HQ.
 
-
+### Projects
