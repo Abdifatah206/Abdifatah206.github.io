@@ -1,4 +1,4 @@
-# CyberSecurity  Engineer
+# Cybersecurity 
 ### SKILLS
 - Networking, Linux/Windows OS, scripting (Python/Bash).
 - risk assessment, SIEM tools.
