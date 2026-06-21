@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Motivated technology professional with a bachelor's degree and a strong interest in cybersecurity and information technology. Skilled in analyzing complex problems, learning new technologies, and delivering effective solutions in fast-paced environments.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
