@@ -1,0 +1,9 @@
+Jul 12 10:15:01 server sshd[2345]: Failed password for invalid user admin from 192.168.1.10 port 55321 ssh2
+
+Jul 12 10:15:05 server sshd[2345]: Failed password for invalid user admin from 192.168.1.10 port 55322 ssh2
+
+Jul 12 10:15:10 server sshd[2345]: Failed password for root from 192.168.1.10 port 55323 ssh2
+
+Jul 12 10:16:15 server sshd[2345]: Accepted password for john from 192.168.1.20 port 55400 ssh2
+
+Jul 12 10:17:01 server sshd[2345]: Failed password for root from 203.0.113.50 port 55324 ssh2
